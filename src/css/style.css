@@ -392,6 +392,9 @@ footer {
     background-size: cover;
 }
 
+.secTituloServicios{
+    color: white;
+}
 .secTituloServicios h2{
     display: flex;
     flex-direction: column;
